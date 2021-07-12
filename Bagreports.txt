@@ -1,0 +1,9 @@
+1   ID
+2   Summary
+3   Steps To Reproduce
+4   Actual Result
+5   Expected Results
+6   Environment
+7   Severity
+8   Priority
+9   Attachments
