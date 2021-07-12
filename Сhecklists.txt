@@ -1,0 +1,5 @@
+                        Result              
+ № Description  Environment: Win7 Chrome 87.0.40  12.07.2021
+                    Status          Comment
+1 Главная Страница
+2 Проверить Настройку цветов и шрифтов 
